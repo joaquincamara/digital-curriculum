@@ -1,0 +1,10 @@
+@import '../../../style/valiables';
+
+.coolFeature-list {
+  display: flex;
+  flex-direction: column;
+
+  h3 {
+    color: $text-brown;
+  }
+}

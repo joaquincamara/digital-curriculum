@@ -1,0 +1,14 @@
+@import '../../style/valiables';
+@import '../../style/mixins';
+
+.profesional-info {
+  background-color: $background-black;
+  color: $background-yellow;
+  box-sizing: border-box;
+  padding: 15px;
+  justify-content: center;
+
+  @include xlarge {
+    padding: 35px 70px 70px 70px;
+  }
+}

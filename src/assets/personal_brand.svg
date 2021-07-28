@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="60" height="59" viewBox="0, 0, 60, 59">
+  <g id="Image">
+    <g id="alchemist_icon">
+      <path d="M-111.732,171.232 L171.732,171.232 L171.732,-112.231 L-111.732,-112.231 z" fill="#000000" id="FONDOS" display="none"/>
+      <g id="LOGO">
+        <path d="M29.823,55.999 L26.233,29.634 L29.823,2.999 L33.316,29.634 z" fill="#4182F9"/>
+        <path d="M56.5,29.676 L29.774,33.176 L3.5,29.676 L29.774,26.092 z" fill="#4182F9"/>
+        <path d="M14.862,44.638 L32.911,32.304 L45.138,14.362 L27.188,26.581 z" fill="#4182F9"/>
+        <path d="M44.726,44.276 L32.392,26.227 L14.45,14 L26.669,31.95 z" fill="#4182F9"/>
+        <path d="M14.158,28.223 L23.781,27.068 L22.127,32.157 L13.496,31.008 z" fill="#4182F9"/>
+        <path d="M27.28,37.324 L28.482,46.153 L31.127,46.153 L32.26,37.604 z" fill="#4182F9"/>
+        <path d="M31.599,16.546 L32.443,22.974 L27.228,22.255 L28.138,15.498 z" fill="#4182F9"/>
+      </g>
+    </g>
+  </g>
+</svg>

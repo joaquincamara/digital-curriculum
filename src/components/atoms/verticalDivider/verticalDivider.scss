@@ -1,0 +1,21 @@
+@import '../../../style/valiables';
+
+.vertical-divider {
+  display: flex;
+  flex-direction: column;
+
+  &__line {
+    border-left: 3px solid $background-yellow;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0 0 0 6px;
+    width: 0%;
+  }
+
+  &__circles {
+    border-radius: 100px;
+    width: 12px;
+    height: 12px;
+    border: 2px solid $background-yellow;
+  }
+}

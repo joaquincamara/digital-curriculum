@@ -1,0 +1,49 @@
+@import '../../../style/valiables';
+@import '../../../style/mixins';
+
+.info-section {
+  display: flex;
+  flex-direction: row;
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0 15px 15px;
+  }
+
+  h1 {
+    font-size: 18px;
+    font-weight: 900;
+    box-sizing: border-box;
+    padding: 0 0 15px 0;
+    color: $background-yellow;
+  }
+
+  a {
+    color: $background-yellow;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 15px;
+    cursor: pointer;
+  }
+
+  h3 {
+    font-size: 12px;
+    font-weight: 500;
+    box-sizing: border-box;
+    padding: 0 0 5px 0;
+  }
+
+  p {
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 15px;
+    color: $text-brown;
+
+    @include middle {
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 20px;
+    }
+  }
+}

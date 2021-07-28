@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="53" height="53" viewBox="0, 0, 53, 53">
+  <g id="FONDOS" display="none">
+    <path d="M-115.232,168.232 L168.232,168.232 L168.232,-115.231 L-115.232,-115.231 z" fill="#000000"/>
+  </g>
+  <g id="LOGO">
+    <g>
+      <path d="M26.323,53 L22.733,26.635 L26.323,0 L29.816,26.635 z" fill="#4182F9"/>
+      <path d="M53,26.677 L26.274,30.177 L0,26.677 L26.274,23.093 z" fill="#4182F9"/>
+      <path d="M7.607,45.434 L22.733,23.093 L45.084,7.958 L29.816,30.177 z" fill="#4182F9"/>
+      <path d="M44.626,45.434 L29.359,23.093 L7.15,7.958 L22.275,30.177 z" fill="#4182F9"/>
+      <path d="M10.658,25.224 L20.281,24.069 L18.627,29.158 L9.996,28.009 z" fill="#4182F9"/>
+      <path d="M23.78,34.324 L24.982,43.154 L27.627,43.154 L28.76,34.604 z" fill="#4182F9"/>
+      <path d="M28.099,13.547 L28.943,19.975 L23.728,19.256 L24.638,12.499 z" fill="#4182F9"/>
+    </g>
+  </g>
+</svg>
