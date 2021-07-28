@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 import { MailFilled, GithubFilled, CompassFilled } from '@ant-design/icons';
 import { PersonalPhrase } from '../molecules/personalPhrase/PersonalPhrase';
 import { Modal } from '../molecules/modal/Modal'
-import cvPDF from '../../assets/joaquin-cv.pdf'
+import cvPDF from '../../assets/joaquin-camara-cv.pdf'
 
 import './presentationInfo.scss';
 
