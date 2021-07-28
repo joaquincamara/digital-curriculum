@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/digital-curriculum/static/css/main.0171e3dc.chunk.css",
+    "main.js": "/digital-curriculum/static/js/main.179655a9.chunk.js",
+    "main.js.map": "/digital-curriculum/static/js/main.179655a9.chunk.js.map",
+    "runtime-main.js": "/digital-curriculum/static/js/runtime-main.21169e47.js",
+    "runtime-main.js.map": "/digital-curriculum/static/js/runtime-main.21169e47.js.map",
+    "static/js/2.36918297.chunk.js": "/digital-curriculum/static/js/2.36918297.chunk.js",
+    "static/js/2.36918297.chunk.js.map": "/digital-curriculum/static/js/2.36918297.chunk.js.map",
+    "index.html": "/digital-curriculum/index.html",
+    "static/css/main.0171e3dc.chunk.css.map": "/digital-curriculum/static/css/main.0171e3dc.chunk.css.map",
+    "static/js/2.36918297.chunk.js.LICENSE.txt": "/digital-curriculum/static/js/2.36918297.chunk.js.LICENSE.txt",
+    "static/media/joaquin-cv.3bd8ca9f.pdf": "/digital-curriculum/static/media/joaquin-cv.3bd8ca9f.pdf",
+    "static/media/personal_brand.3e1bb7f2.svg": "/digital-curriculum/static/media/personal_brand.3e1bb7f2.svg",
+    "static/media/tenor.03880694.gif": "/digital-curriculum/static/media/tenor.03880694.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21169e47.js",
+    "static/js/2.36918297.chunk.js",
+    "static/css/main.0171e3dc.chunk.css",
+    "static/js/main.179655a9.chunk.js"
+  ]
+}
